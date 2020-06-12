@@ -18,8 +18,9 @@
 }
 
 .container-main img {
+    border-radius: 30px;
+    margin-top: 12px;
     object-fit: cover;
-    height: 110vh;
+    height: 400px;
     max-width: 100vw;
-    margin-top: 10px;
 }
